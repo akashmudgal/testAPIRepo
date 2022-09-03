@@ -1,6 +1,12 @@
 {
-   "1" : {
-        "MachineIPAddress" :  "10.10.10.1",
-        "Password": "SomeRandomText"
-   }
+   "machinedetails" : [
+      {
+         "ipaddress" : "10.10.0.1",
+         "adminpassword": "somerandompassword"
+      },
+      {
+         "ipaddress" : "10.10.0.2",
+         "adminpassword": "somerandompasswor2"
+      }
+   ]
 }
