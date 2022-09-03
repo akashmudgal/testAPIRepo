@@ -1,7 +1,9 @@
-[
-    {
-        "Id" : 1,
-        "MachineIPAddress" : "10.10.10.1",
-        "Password": "somerandomtext"
-    }
-]
+{
+    [
+        {
+            "Id" : 1,
+            "MachineIPAddress" : "10.10.10.1",
+            "Password": "somerandomtext"
+        }
+    ]
+}
