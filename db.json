@@ -1,9 +1,6 @@
 {
-    [
-        {
-            "Id" : 1,
-            "MachineIPAddress" : "10.10.10.1",
-            "Password": "somerandomtext"
-        }
-    ]
+   "1" : {
+        "MachineIPAddress" :  "10.10.10.1",
+        "Password": "SomeRandomText"
+   }
 }
